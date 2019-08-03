@@ -1,6 +1,3 @@
-//
-// Created by deven on 03/08/19.
-//
 
 #include <algorithm>    //generate
 #include <cstdlib>      //std rand
